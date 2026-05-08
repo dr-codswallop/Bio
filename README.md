@@ -23,7 +23,7 @@ I been a permanent resident in the US since 2025 and currently aiming to transit
 
 ## 👥 Some great clients I've created work for ...
 
-A.M.Heath • Rogers, Coleridge & White • Janklow & Nesbit UK • ILA : Intercontinental Literary Agency • Greene & Heaton • Luigi Bonomi Associates • Greyhound Literary • Lutyens & Rubinstein • Jonathan Conway • Georgina Capel Associates • Estate of A.S.Byatt • Jane Thynne (author) • John Sutherland (author) • Ha-Joon Chang (economist) • Eilean Shona vacation rentals • El Fenn • Beldi hotels • L'Iglesia • 33 Rue Majorelle • Palais Aziza • Dar Mo'da • Dar Imiri • Riad Dari • Clarendon Financial Planning • Outlook Expeditions • Augustus Brown Architects • River Arts Club • Creative Jam
+A.M.Heath • Rogers, Coleridge & White • Janklow & Nesbit UK • ILA : Intercontinental Literary Agency • Greene & Heaton • Luigi Bonomi Associates • Greyhound Literary • Lutyens & Rubinstein • Jonathan Conway • Georgina Capel Associates • Estate of A.S.Byatt • Jane Thynne (author) • John Sutherland (author) • Ha-Joon Chang (economist) • Eilean Shona (vacation rentals) • El Fenn • Beldi Hotels • L'Iglesia • 33 Rue Majorelle • Palais Aziza • Dar Mo'da • Dar Imiri • Riad Dari • Clarendon Financial Planning • Outlook Expeditions • Augustus Brown Architects • River Arts Club • Creative Jam
 
 ## 📫 How you can reach me ...
 Head over to my website <a href="https://larrysmith.dev" target="_blank">larrysmith.dev</a>, or if you prefer <a href="http://linkedin.com/in/larry-smith-dev" target="_blank">LinkedIn</a>
