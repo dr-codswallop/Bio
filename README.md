@@ -1,11 +1,20 @@
-Hi there 👋
+# 👋 Hey there 
 
-Welcome to my GitHub home. I'm Larry, a freelance full stack software developer. I mostly do private work with companies and clients, mostly working on web applications in PHP (Laravel and Craft CMS).
+I'm Laurence (Larry). I'm a freelance full-stack software developer. I mostly do private work with companies and private clients, working on web applications in PHP
 
 I'm UK born but now living in Austin TX.
 
 ## 🔭 I’m currently working on ...
-I moved to the US in 2025 and received my permanent residency. I'm currently working on transitioning from freelance work to full time US remote employment in full-stack or frontend developer roles.
+I been a permanent resident in the US since 2025 and currently aiming to transition from freelance work to full-time US remote employment in either full-stack or front-end developer roles.
+
+## 🥞 My favorite stack
+- Laravel
+- CraftCMS
+- TailwindCSS
+- AlpineJS
+- Livewire
+- Vue
+- MySQL
 
 ## 👥 Some great clients I've created work for ...
 
