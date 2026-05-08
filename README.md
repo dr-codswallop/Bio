@@ -1,6 +1,8 @@
 # 👋 Hey there 
 
-I'm Laurence (Larry). I'm a UK born freelance full-stack software developer, now living in Austin TX. I mostly do private work with companies and private clients, working on web applications in PHP. My GitHub consists mainly of over 40 private client website repositories.
+I'm Laurence (Larry). I'm a UK born freelance full-stack software developer, now living in Austin TX. 
+
+I mostly do solo work with companies and private clients, working on PHP web applications. This GitHub consists mainly of more than 40 private client repositories.
 
 ### 🔭 I’m currently working on ...
 I been a permanent resident in the US since 2025 and currently aiming to transition from freelance work to full-time US remote employment in either full-stack or front-end developer roles.
