@@ -1,8 +1,6 @@
 # 👋 Hey there 
 
-I'm Laurence (Larry). I'm a freelance full-stack software developer. I mostly do private work with companies and private clients, working on web applications in PHP
-
-I'm UK born but now living in Austin TX.
+I'm Laurence (Larry). I'm a UK born freelance full-stack software developer, now living in Austin TX. I mostly do private work with companies and private clients, working on web applications in PHP. My GitHub consists mainly of private client website repo's (47).
 
 ## 🔭 I’m currently working on ...
 I been a permanent resident in the US since 2025 and currently aiming to transition from freelance work to full-time US remote employment in either full-stack or front-end developer roles.
@@ -16,7 +14,7 @@ I been a permanent resident in the US since 2025 and currently aiming to transit
 - **Vue**
 - **MySQL**
 
-🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 - [NativePHP](https://nativephp.com) :: for building native iOS and Android apps with Laravel and existing web tech 
 - Python :: for tinkering on mini projects on Raspberry Pi
 - React :: though I prefer Vue
