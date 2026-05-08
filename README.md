@@ -8,13 +8,13 @@ I'm UK born but now living in Austin TX.
 I been a permanent resident in the US since 2025 and currently aiming to transition from freelance work to full-time US remote employment in either full-stack or front-end developer roles.
 
 ## 🥞 My favorite stack
-- Laravel
-- CraftCMS
-- TailwindCSS
-- AlpineJS
-- Livewire
-- Vue
-- MySQL
+- **Laravel**
+- **CraftCMS**
+- **TailwindCSS**
+- **AlpineJS**
+- **Livewire**
+- **Vue**
+- **MySQL**
 
 🌱 I’m currently learning ...
 - [NativePHP](https://nativephp.com) :: for building native iOS and Android apps with Laravel and existing web tech 
